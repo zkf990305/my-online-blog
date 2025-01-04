@@ -3,9 +3,9 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "桀桀桀"
+  text: "VitePress 主题站点"
+  tagline: 前端 知识体系地图
   actions:
     - theme: brand
       text: Markdown Examples
@@ -15,7 +15,7 @@ hero:
       link: /api-examples
 
 features:
-  - title: Feature A
+  - title: Web 前端
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
   - title: Feature B
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
